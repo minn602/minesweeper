@@ -1,7 +1,8 @@
 import React from "react";
+import { GameBoard } from "./Pages/Components/GameBoard";
 
 function App() {
-  return <div className="App"></div>;
+  return <GameBoard />;
 }
 
 export default App;
